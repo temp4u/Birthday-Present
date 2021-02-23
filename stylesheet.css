@@ -1286,9 +1286,6 @@ audio {
 	display: none;
 }
 
-/* .videoshow{
-	display:none;
-} */
 
 .cake-cover {
 	margin-top: 50px;
@@ -1325,6 +1322,13 @@ audio {
         color: #fff;
         background-color: #466baf;
     }
+	.videoDiv
+	{
+		width: 50%; 
+		margin: auto;
+		height: auto !important;
+		display: block;
+	}
 
 
     /*controlling tablet width*/
