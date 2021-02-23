@@ -26,16 +26,16 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color:rgb(178,132,190);
+		background-color:rgb(106,90,205);
 	}
 	25%{
-		background-color:rgb(153,102,204);
+		background-color:rgb(111,0,255);
 	}
 	50%{
 		background-color:rgb(138,43,226);
 	}
 	75%{
-		background-color:rgb(111,0,255);
+		background-color:rgb(111,45,168);
 	}
 	100%{
 		background-color:rgb(85,26,139);
@@ -43,16 +43,16 @@ body {
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color:rgb(178,132,190);
+		background-color:rgb(106,90,205);
 	}
 	25%{
-		background-color:rgb(153,102,204);
+		background-color:rgb(111,0,255);
 	}
 	50%{
 		background-color:rgb(138,43,226);
 	}
 	75%{
-		background-color:rgb(111,0,255);
+		background-color:rgb(111,45,168);
 	}
 	100%{
 		background-color:rgb(85,26,139);
@@ -61,16 +61,16 @@ body {
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color:rgb(178,132,190);
+		background-color:rgb(106,90,205);
 	}
 	25%{
-		background-color:rgb(153,102,204);
+		background-color:rgb(111,0,255);
 	}
 	50%{
 		background-color:rgb(138,43,226);
 	}
 	75%{
-		background-color:rgb(111,0,255);
+		background-color:rgb(111,45,168);
 	}
 	100%{
 		background-color:rgb(85,26,139);
@@ -79,16 +79,16 @@ body {
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color:rgb(178,132,190);
+		background-color:rgb(106,90,205);
 	}
 	25%{
-		background-color:rgb(153,102,204);
+		background-color:rgb(111,0,255);
 	}
 	50%{
 		background-color:rgb(138,43,226);
 	}
 	75%{
-		background-color:rgb(111,0,255);
+		background-color:rgb(111,45,168);
 	}
 	100%{
 		background-color:rgb(85,26,139);
@@ -97,16 +97,16 @@ body {
 
 @keyframes peach_alive {
 	0%{
-		background-color:rgb(178,132,190);
+		background-color:rgb(106,90,205);
 	}
 	25%{
-		background-color:rgb(153,102,204);
+		background-color:rgb(111,0,255);
 	}
 	50%{
 		background-color:rgb(138,43,226);
 	}
 	75%{
-		background-color:rgb(111,0,255);
+		background-color:rgb(111,45,168);
 	}
 	100%{
 		background-color:rgb(85,26,139);
