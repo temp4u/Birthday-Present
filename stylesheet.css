@@ -1299,9 +1299,9 @@ audio {
 }
 .message p {
 	font-family: 'Signika', sans-serif;
-	font-size: 30px;
-	text-transform: uppercase;
-	color: #C4515C;
+	font-size: 50px;
+	/* text-transform: uppercase; */
+	color: #fdf9f9;
 	/*text-shadow: 2px 2px 2px #FFF;*/
 	display: none;
 	font-weight: bold;
@@ -1325,12 +1325,6 @@ audio {
         color: #fff;
         background-color: #466baf;
     }
-	.message
-	{
-		color:white;
-		font-style: italic;
-		size: 3px;
-	}
 
 
     /*controlling tablet width*/
