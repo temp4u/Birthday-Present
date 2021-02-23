@@ -26,90 +26,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #3633e6;
+		background-color:#FFF;
 	}
 	25%{
-		background-color: #3127b1;
+		background-color:BDAEC6;
 	}
 	50%{
-		background-color: #1c2c77;
+		background-color:9C8AA5;
 	}
 	75%{
-		background-color: #1e1761;
+		background-color:732C7B;
 	}
 	100%{
-		background-color: #1a0d38;
+		background-color:421C52;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #3633e6;
+		background-color:#FFF;
 	}
 	25%{
-		background-color: #3127b1;
+		background-color:BDAEC6;
 	}
 	50%{
-		background-color: #1c2c77;
+		background-color:9C8AA5;
 	}
 	75%{
-		background-color: #1e1761;
+		background-color:732C7B;
 	}
 	100%{
-		background-color: #1a0d38;
+		background-color:421C52;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #3633e6;
+		background-color:#FFF;
 	}
 	25%{
-		background-color: #3127b1;
+		background-color:BDAEC6;
 	}
 	50%{
-		background-color: #1c2c77;
+		background-color:9C8AA5;
 	}
 	75%{
-		background-color: #1e1761;
+		background-color:732C7B;
 	}
 	100%{
-		background-color: #1a0d38;
+		background-color:421C52;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #3633e6;
+		background-color:#FFF;
 	}
 	25%{
-		background-color: #3127b1;
+		background-color:BDAEC6;
 	}
 	50%{
-		background-color: #1c2c77;
+		background-color:9C8AA5;
 	}
 	75%{
-		background-color: #1e1761;
+		background-color:732C7B;
 	}
 	100%{
-		background-color: #1a0d38;
+		background-color:421C52;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #3633e6;
+		background-color:#FFF;
 	}
 	25%{
-		background-color: #3127b1;
+		background-color:BDAEC6;
 	}
 	50%{
-		background-color: #1c2c77;
+		background-color:9C8AA5;
 	}
 	75%{
-		background-color: #1e1761;
+		background-color:732C7B;
 	}
 	100%{
-		background-color: #1a0d38;
+		background-color:421C52;
 	}
 }
 
@@ -1294,7 +1294,7 @@ audio {
 	margin-top: 50px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 100px;
 	display: none;
 }
 .message p {
