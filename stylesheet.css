@@ -1305,6 +1305,7 @@ audio {
 }
 
 .btn-primary {
+	margin-bottom: 35px;
         border-color: #466baf;
         padding: 10px;
         text-transform: uppercase;
